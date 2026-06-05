@@ -55,3 +55,20 @@ The dashboard provides insights into:
 * Customer and Driver Satisfaction Metrics
 
 
+## Dashboard Preview
+
+### Overall Dashboard
+![Overall](overall.png)
+
+### Vehicle Type Dashboard
+![Vehicle Type](Vehicle_type.png)
+
+### Revenue Dashboard
+![Revenue](Revenue.png)
+
+### Cancellation Dashboard
+![Cancellation](cancellation.png)
+
+### Ratings Dashboard
+![Ratings](Ratings.png)
+
